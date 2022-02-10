@@ -10,6 +10,6 @@ https://cp1ftth.vercel.app/
 
 
 <div align="center">
-  <img src="https://ibb.co/6n592Yx" alt="demo" height="500">
+  <img src="https://i.ibb.co/r7J8gkS/Painel.png" alt="demo" height="500">
 </div>
 <hr />
